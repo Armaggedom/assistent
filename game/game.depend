@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1622144840 source:c:\users\user\desktop\arquivo\programas\jogo em allegro\game\main.c
+1622239905 source:c:\users\user\desktop\arquivo\programas\jogo em allegro\game\main.c
 	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
 	<allegro5/allegro_native_dialog.h>
 
 1372628331 c:\users\user\desktop\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro.h
@@ -230,4 +231,12 @@
 
 1372628331 c:\users\user\desktop\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_native_dialog.h
 	"allegro5/allegro.h"
+
+1362327499 c:\users\user\desktop\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_image.h
+
+1622247239 source:c:\users\user\desktop\arquivo\programas\jogo em allegro\game\main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
 
